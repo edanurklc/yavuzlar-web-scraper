@@ -6,7 +6,7 @@ Seçilen web sitelerindeki başlık, tarih ve açıklama gibi verileri otomatik 
 
 
 
-## 🛠️ Kurulum ve Gereksinimler
+##  Kurulum ve Gereksinimler
 
 Projenin çalışabilmesi için bilgisayarınızda **Go (Golang)** yüklü olmalıdır.
 
