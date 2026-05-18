@@ -12,5 +12,5 @@ Projenin çalışabilmesi için bilgisayarınızda **Go (Golang)** yüklü olmal
 
 ### 1. Depoyu Klonlayın veya Dosyaları İndirin
 ```bash
-git clone [https://github.com/kullaniciadi/eddy-scraper.git](https://github.com/kullaniciadi/eddy-scraper.git)
+git clone https://github.com/edanurklc/yavuzlar-web-scraper
 cd eddy-scraper
